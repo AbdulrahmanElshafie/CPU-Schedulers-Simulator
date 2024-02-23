@@ -26,6 +26,8 @@ iv.	The running process did not use all its quantum time because it no longer ne
 
 
 Example:
+
+
 ![Screenshot 2024-02-23 131256](https://github.com/AbdulrahmanElshafie/CPU-Schedulers-Simulator/assets/101133020/e9538ef4-3d59-45d3-8378-5999ebb8ebd7)
 
 Answer:
@@ -58,14 +60,19 @@ Answer:
 Program Input
 
 	Number of processes
+
 	Round robin Time Quantum
+
 	Context switching
 
 For Each Process, you need to receive the following parameters from the user:
 
 	Process Name
+
 	Process Arrival Time
+
 	Process Burst Time
+
 	Process Priority
 
 Program Output
@@ -73,8 +80,14 @@ Program Output
 For each scheduler output the following:
 
 	Processes execution order
+
 	Waiting Time for each process
+
 	Turnaround Time for each process
+
 	Average Waiting Time
+
 	Average Turnaround Time
+
 	Print all history updates of quantum time for each process (AG Scheduling)
+
