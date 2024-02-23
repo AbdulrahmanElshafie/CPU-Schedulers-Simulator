@@ -5,6 +5,7 @@ Write a Java program to simulate the following schedulers:
 2.	Round Robin (RR) with context switching.
 3.	preemptive Priority Scheduling (with solving the starvation problem)
 4.	AG Scheduling:
+
     a.	Each process is provided with a static time to execute called quantum.
   	
     b.	Once a process is executed for a given time period, it’s called FCFS till the finishing of (ceil (52%)) of its Quantum time then it’s converted to non-preemptive Priority till the finishing of the next (ceil (52%)), after that it’s converted to preemptive Shortest- Job First (SJF).
