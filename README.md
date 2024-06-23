@@ -1,5 +1,6 @@
-CPU Schedulers Simulator
-Write a Java program to simulate the following schedulers:
+# CPU Schedulers Simulator
+
+A Java program to simulate the following schedulers:
 
 1.	preemptive Shortest- Job First (SJF) Scheduling with context switching.
 2.	Round Robin (RR) with context switching.
